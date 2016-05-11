@@ -1,0 +1,19 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "scrapes the internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrape"
+  ],
+  "author": "Zishan",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "path": "^0.12.7",
+    "request": "^2.72.0"
+  }
+}
